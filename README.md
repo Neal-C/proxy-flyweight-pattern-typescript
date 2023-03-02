@@ -1,4 +1,4 @@
-# Original Gang of 4's Command/Memento pattern
+# Original Gang of 4's Proxy/Flyweight pattern
 
 ## I AM NOT THE AUTHOR OF THIS CODE; 
 ### code may have been copied as such or received my personal modifications.
